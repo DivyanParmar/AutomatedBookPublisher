@@ -1,0 +1,6 @@
+playwright
+chromadb
+sentence-transformers
+huggingface_hub
+torch
+rich
