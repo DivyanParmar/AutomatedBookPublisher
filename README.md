@@ -112,7 +112,7 @@ __pycache__/
 ## 👤 Author
 
 **Divyan Parmar**  
-[GitHub](https://github.com/yourusername) — *Feel free to fork, star, or contribute!*
+[GitHub](https://github.com/DivyanParmar) — *Feel free to fork, star, or contribute!*
 
 ---
 
